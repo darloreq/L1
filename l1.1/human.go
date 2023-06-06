@@ -1,4 +1,4 @@
-package main
+package l1_1
 
 type Human struct {
 	name string
